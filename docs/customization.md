@@ -233,7 +233,7 @@ Content added to this file will replace the default placeholder text in the sear
 {% raw %}
 
 ```liquid
-Search {{site.title}}
+Search {{site.search_description}}
 ```
 
 {% endraw %}
